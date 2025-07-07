@@ -71,3 +71,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # PROJECT_4_NODESJS
 f685cf76aba84517b98fd3d7f4437777f9d41654
+
+# Screenshots
+
+## Dashboard
+![Dashboard](./frontend/public/S1.png)
+
+## Login Page
+![Login](./frontend/public/S2.png)
+
+## Register Page
+![Register](./frontend/public/S3.png)
+
