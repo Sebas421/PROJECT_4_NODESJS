@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PROJECT_4_NODESJS/static/css/main.b0650583.css",
+    "main.js": "/PROJECT_4_NODESJS/static/js/main.d0d4f963.js",
+    "index.html": "/PROJECT_4_NODESJS/index.html",
+    "main.b0650583.css.map": "/PROJECT_4_NODESJS/static/css/main.b0650583.css.map",
+    "main.d0d4f963.js.map": "/PROJECT_4_NODESJS/static/js/main.d0d4f963.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0650583.css",
+    "static/js/main.d0d4f963.js"
+  ]
+}
